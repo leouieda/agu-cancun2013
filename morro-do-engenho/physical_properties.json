@@ -1,0 +1,12 @@
+{
+"inducing":
+    {"inclination":-9.5,
+     "declination":-13},
+"remanent":
+    {"inclination":-43,
+     "declination":-13},
+"total":
+    {"magnetization":6,
+     "inclination":-40,
+     "declination":-13}
+}
