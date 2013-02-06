@@ -103,6 +103,10 @@ c) the two bodies estimated by the inversion.
 
 ## References
 
+Dutra, A. C., and Y. R. Marangoni (2009), Gravity and magnetic 3D inversion of 
+Morro do Engenho complex, Central Brazil, Journal of South American Earth 
+Sciences, 28(2), 193-203, doi:10.1016/j.jsames.2009.02.006.
+
 Uieda, L., and V. C. F. Barbosa (2012a), Robust 3D gravity gradient inversion 
 by planting anomalous densities, Geophysics, 77(4), G55-G66, 
 doi:10.1190/geo2011-0388.1.
