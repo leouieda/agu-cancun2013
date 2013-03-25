@@ -1,0 +1,14 @@
+F = 23000,0
+D =    13,0
+I =     8,0
+
+intensidade = 1,5
+declinação = 0,0
+inclinação = 3,0
+
+Cm = 1E-7*1E9 = 100
+M = 1,5
+G = 6,67E-20*1E12*1E9 = 66,7
+rho = 0,3
+
+a = (Cm*M)/(G*rho) = 7,496

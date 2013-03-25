@@ -1,0 +1,8 @@
+        p_inicial               p
+0          14.540           2.950
+1           2.564           0.001
+2           2.603           0.516
+
+declinacao            0.024
+inclinacao            9.927
+intensidade           2.995

@@ -1,0 +1,10 @@
+*.pyc
+*.so
+_c*.c
+build
+.*.swp
+doc/_build
+doc/_static/cookbook
+doc/cookbook
+doc/fatiando*.pdf
+benchmarks/*.tmp

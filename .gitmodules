@@ -1,0 +1,3 @@
+[submodule "fatiando"]
+	path = fatiando
+	url = git@github.com:leouieda/fatiando.git

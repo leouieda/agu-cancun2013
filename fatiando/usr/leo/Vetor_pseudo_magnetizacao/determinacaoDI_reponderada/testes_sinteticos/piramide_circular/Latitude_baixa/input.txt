@@ -1,0 +1,23 @@
+1.0 2.0 1E-5
+100 20
+1.0 -10
+
+0.0
+
+45.0 -10.0 23000.0
+
+10.0
+10.0
+10.0
+
+lambida_inicial dlambida epsilon
+ITMAX ITMAX_marq
+stdev_dados semente
+
+uridge
+
+D I F
+
+p_inicial[0]
+p_inicial[1]
+p_inicial[2]
