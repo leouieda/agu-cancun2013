@@ -96,7 +96,7 @@ here proposed.
 
 ## Figures
 
-![Figure1](morro-do-engenho/figs/me-a2.png)
+![Figure1](https://raw.github.com/leouieda/agu-cancun2013/2a511285b989abbb442183496ca5bfc9b4c2cfa5/morro-do-engenho/figs/me-a2.png?login=leouieda&token=906b42234761b2be4edaad11976d16ca)
 Figure 1: a) total field magnetic anomaly map with the ME and A2 anomalies. 
 b) map of the inversion residuals (observed minus predicted data). 
 c) the two bodies estimated by the inversion.
