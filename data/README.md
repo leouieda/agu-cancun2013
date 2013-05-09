@@ -2,18 +2,17 @@ Magnetic data of the ME and A2 anomalies of the Morro do Engenho complex
 
 # References
 
-Dutra, A. C., and Y. R. Marangoni (2009), Gravity and magnetic 3D inversion of 
-Morro do Engenho complex, Central Brazil, Journal of South American Earth 
+Dutra, A. C., and Y. R. Marangoni (2009), Gravity and magnetic 3D inversion of
+Morro do Engenho complex, Central Brazil, Journal of South American Earth
 Sciences, 28(2), 193-203, doi:10.1016/j.jsames.2009.02.006.
 
 # Files
 
-## A2.dat
+## ME-A2.dat
 
-The residual A2 anomaly, interpolated with topography and height.
+The residual total field anomaly, interpolated with topography and height.
 
-
-# Physical properties
+# physical-properties.json
 
 The regional field has:
 
